@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.2.0](https://github.com/kuritify/release-please-poc/compare/release-please-poc-v2.1.0...release-please-poc-v2.2.0) (2024-06-04)
+
+
+### Features
+
+* fugafuga ([#7](https://github.com/kuritify/release-please-poc/issues/7)) ([dafffd2](https://github.com/kuritify/release-please-poc/commit/dafffd2616560d502d9d7a1e80cc7f22ea52a9e0))
+* sex ([dafffd2](https://github.com/kuritify/release-please-poc/commit/dafffd2616560d502d9d7a1e80cc7f22ea52a9e0))
+
+
+### Bug Fixes
+
+* jex ([dafffd2](https://github.com/kuritify/release-please-poc/commit/dafffd2616560d502d9d7a1e80cc7f22ea52a9e0))
+
 ## [2.1.0](https://github.com/kuritify/release-please-poc/compare/release-please-poc-v2.0.0...release-please-poc-v2.1.0) (2024-06-04)
 
 
