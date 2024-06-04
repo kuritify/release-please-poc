@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/kuritify/release-please-poc/compare/release-please-poc-v2.0.0...release-please-poc-v2.1.0) (2024-06-04)
+
+
+### Features
+
+* sex ([#5](https://github.com/kuritify/release-please-poc/issues/5)) ([7f40d13](https://github.com/kuritify/release-please-poc/commit/7f40d13ba7fcd680e2033eef123acded587e9e21))
+
 ## [2.0.0](https://github.com/kuritify/release-please-poc/compare/release-please-poc-v1.1.0...release-please-poc-v2.0.0) (2024-06-04)
 
 
